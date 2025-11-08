@@ -57,7 +57,7 @@ export default function Profile() {
       propertyId: selectedPropertyId,
       cabinId: selectedRole === 'Renter' ? selectedCabinId : null,
     });
-    window.location.href = '/';
+    window.location.href = import.meta.env.BASE_URL;
   };
 
   return (
