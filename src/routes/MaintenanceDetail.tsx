@@ -21,18 +21,18 @@ const statusColors: Record<TicketStatus, string> = {
 };
 
 export default function MaintenanceDetail() {
-  const { id } = useParams<{ id: string }>();
+  const { ticketId } = useParams<{ ticketId: string }>();
 
   const { data: ticket, isLoading } = useQuery({
-    queryKey: ['ticket', id],
+    queryKey: ['ticket', ticketId],
     queryFn: async () => {
-      if (!id) return null;
-      const baseTicket = await getTicket(id);
+      if (!ticketId) return null;
+      const baseTicket = await getTicket(ticketId);
       if (!baseTicket) return null;
       const merged = mergeTicketsWithOverlay([baseTicket]);
       return merged[0] || null;
     },
-    enabled: !!id,
+    enabled: !!ticketId,
   });
 
   const { data: assignedStaff } = useQuery({
