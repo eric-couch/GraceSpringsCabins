@@ -1,0 +1,20 @@
+[
+  {
+    "id": "O-001",
+    "propertyId": "P-001",
+    "title": "Scheduled Power Maintenance",
+    "bodyMarkdown": "The local utility company will be performing routine maintenance on the power lines.\n\n**Date:** November 10, 2025\n**Time:** 2:00 PM - 4:00 PM\n\nPower may be interrupted briefly during this window. Please plan accordingly and save any work on electronic devices.",
+    "startsAt": "2025-11-10T20:00:00Z",
+    "endsAt": "2025-11-10T22:00:00Z",
+    "status": "Planned"
+  },
+  {
+    "id": "O-002",
+    "propertyId": "P-001",
+    "title": "Water Service Interruption - Creek Rd",
+    "bodyMarkdown": "Water service will be temporarily interrupted for line repair work.\n\n**Affected:** All cabins on Creek Road (Cabins 10-20)\n**Date:** November 12, 2025\n**Time:** 9:00 AM - 12:00 PM\n\nPlease fill containers with water beforehand if needed.",
+    "startsAt": "2025-11-12T15:00:00Z",
+    "endsAt": "2025-11-12T18:00:00Z",
+    "status": "Planned"
+  }
+]

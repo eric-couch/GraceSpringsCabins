@@ -1,0 +1,32 @@
+[
+  {
+    "id": "C-001",
+    "propertyId": "P-001",
+    "name": "Cabin 1",
+    "status": "Active"
+  },
+  {
+    "id": "C-002",
+    "propertyId": "P-001",
+    "name": "Cabin 2",
+    "status": "Active"
+  },
+  {
+    "id": "C-003",
+    "propertyId": "P-001",
+    "name": "Cabin 3",
+    "status": "Active"
+  },
+  {
+    "id": "C-014",
+    "propertyId": "P-001",
+    "name": "Cabin 14",
+    "status": "Active"
+  },
+  {
+    "id": "C-015",
+    "propertyId": "P-001",
+    "name": "Cabin 15",
+    "status": "Maintenance"
+  }
+]

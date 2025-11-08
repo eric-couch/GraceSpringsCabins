@@ -1,0 +1,58 @@
+[
+  {
+    "id": "T-1001",
+    "propertyId": "P-001",
+    "cabinId": "C-014",
+    "createdByUserId": "U-1001",
+    "assignedToUserId": "U-2001",
+    "category": "Plumbing",
+    "subcategory": "Leak",
+    "priority": "High",
+    "status": "Assigned",
+    "description": "Water under sink; steady drip from P-trap area. Started yesterday evening.",
+    "createdAt": "2025-11-01T10:05:00Z",
+    "updatedAt": "2025-11-01T15:22:00Z"
+  },
+  {
+    "id": "T-1002",
+    "propertyId": "P-001",
+    "cabinId": "C-014",
+    "createdByUserId": "U-1001",
+    "assignedToUserId": null,
+    "category": "Electrical",
+    "subcategory": "Outlet",
+    "priority": "Medium",
+    "status": "Open",
+    "description": "Kitchen outlet near fridge not working. Breaker hasn't tripped.",
+    "createdAt": "2025-11-03T09:15:00Z",
+    "updatedAt": "2025-11-03T09:15:00Z"
+  },
+  {
+    "id": "T-1003",
+    "propertyId": "P-001",
+    "cabinId": "C-001",
+    "createdByUserId": "U-1002",
+    "assignedToUserId": "U-2002",
+    "category": "HVAC",
+    "subcategory": "Heating",
+    "priority": "High",
+    "status": "In Progress",
+    "description": "Heat not working. Thermostat set to 72 but cabin is 58 degrees.",
+    "createdAt": "2025-11-05T07:30:00Z",
+    "updatedAt": "2025-11-06T11:00:00Z"
+  },
+  {
+    "id": "T-1004",
+    "propertyId": "P-001",
+    "cabinId": "C-002",
+    "createdByUserId": "U-1002",
+    "assignedToUserId": "U-2001",
+    "category": "Appliances",
+    "subcategory": "Dishwasher",
+    "priority": "Low",
+    "status": "Resolved",
+    "description": "Dishwasher making loud grinding noise during wash cycle.",
+    "createdAt": "2025-10-28T14:00:00Z",
+    "updatedAt": "2025-10-30T16:45:00Z"
+  }
+]

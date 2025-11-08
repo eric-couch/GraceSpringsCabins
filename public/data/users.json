@@ -1,0 +1,42 @@
+[
+  {
+    "id": "U-1001",
+    "email": "renter@example.com",
+    "name": "Renter One",
+    "role": "Renter",
+    "propertyIds": ["P-001"],
+    "cabinId": "C-014"
+  },
+  {
+    "id": "U-1002",
+    "email": "renter2@example.com",
+    "name": "Renter Two",
+    "role": "Renter",
+    "propertyIds": ["P-001"],
+    "cabinId": "C-001"
+  },
+  {
+    "id": "U-2001",
+    "email": "staff@example.com",
+    "name": "Staff One",
+    "role": "Staff",
+    "propertyIds": ["P-001"],
+    "cabinId": null
+  },
+  {
+    "id": "U-2002",
+    "email": "staff2@example.com",
+    "name": "Staff Two",
+    "role": "Staff",
+    "propertyIds": ["P-001"],
+    "cabinId": null
+  },
+  {
+    "id": "U-3001",
+    "email": "admin@example.com",
+    "name": "Admin One",
+    "role": "Admin",
+    "propertyIds": ["P-001"],
+    "cabinId": null
+  }
+]

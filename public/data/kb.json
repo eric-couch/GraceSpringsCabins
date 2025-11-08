@@ -1,0 +1,38 @@
+[
+  {
+    "id": "KB-001",
+    "propertyId": "P-001",
+    "title": "Sink leak—P-trap replacement",
+    "symptoms": "Water dripping under sink, visible moisture around P-trap connections",
+    "stepsMarkdown": "## Diagnosis\n- Inspect P-trap for cracks or loose connections\n- Check slip nuts for tightness\n- Look for worn washers\n\n## Solution\n1. Turn off water supply\n2. Place bucket under P-trap\n3. Loosen slip nuts with channel locks\n4. Remove P-trap and inspect washers\n5. Replace washers if cracked or worn\n6. Reassemble and hand-tighten slip nuts\n7. Test for leaks\n\n## Parts Needed\n- Replacement washers (1-1/2\" standard)\n- P-trap if cracked (bring old one to hardware store)",
+    "tags": ["plumbing", "leak", "sink"],
+    "createdByUserId": "U-2001",
+    "upvotes": 8,
+    "createdAt": "2025-11-03T12:00:00Z",
+    "updatedAt": "2025-11-03T12:00:00Z"
+  },
+  {
+    "id": "KB-002",
+    "propertyId": "P-001",
+    "title": "Thermostat troubleshooting",
+    "symptoms": "Heat/AC not responding to thermostat changes, display working but no temperature change",
+    "stepsMarkdown": "## Quick Checks\n1. Verify thermostat is set to HEAT or COOL (not OFF or AUTO)\n2. Check that set temperature is appropriate (higher than room temp for heat, lower for AC)\n3. Replace batteries if display is dim\n4. Check circuit breaker for HVAC system\n\n## Advanced Steps\n5. Remove thermostat from wall plate\n6. Check wire connections are secure\n7. Look for corrosion on terminals\n8. Verify R (red) wire has 24V (use multimeter)\n\n## If Still Not Working\n- Call for professional service\n- May be furnace/AC unit issue, not thermostat",
+    "tags": ["hvac", "heating", "cooling", "thermostat"],
+    "createdByUserId": "U-2002",
+    "upvotes": 5,
+    "createdAt": "2025-10-20T15:30:00Z",
+    "updatedAt": "2025-10-20T15:30:00Z"
+  },
+  {
+    "id": "KB-003",
+    "propertyId": "P-001",
+    "title": "Tripped GFCI outlet reset procedure",
+    "symptoms": "Outlet not working, other outlets on same circuit also dead, no tripped breaker",
+    "stepsMarkdown": "## What is a GFCI?\nGFCI (Ground Fault Circuit Interrupter) outlets protect against electrical shock. They have TEST and RESET buttons and can trip without flipping the main breaker.\n\n## Reset Procedure\n1. Locate GFCI outlets (usually in kitchen, bathroom, garage)\n2. Look for outlet with TEST/RESET buttons\n3. Press RESET button firmly\n4. You should hear a click\n5. Test outlet with small appliance\n\n## Common GFCI Locations\n- Kitchen countertop outlets\n- Bathroom vanity outlets\n- Garage outlets\n- Outdoor outlets\n\n## Note\nOne GFCI can protect multiple downstream outlets. If bathroom outlet doesn't work, check kitchen GFCI and vice versa.",
+    "tags": ["electrical", "outlet", "gfci"],
+    "createdByUserId": "U-2001",
+    "upvotes": 12,
+    "createdAt": "2025-09-15T10:00:00Z",
+    "updatedAt": "2025-09-15T10:00:00Z"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "N-001",
+    "propertyId": "P-001",
+    "title": "Boil Water Notice",
+    "bodyMarkdown": "Out of an abundance of caution, please boil water for drinking and cooking until further notice. Local water authority is performing testing after maintenance work on the main line.\n\n**What to do:**\n- Boil water for 1 minute before use\n- Affects drinking, cooking, ice making\n- Brushing teeth should also use boiled water\n\nWe will update you as soon as the all-clear is given.",
+    "startsAt": "2025-11-05T08:00:00Z",
+    "endsAt": "2025-11-07T18:00:00Z",
+    "isPinned": true
+  },
+  {
+    "id": "N-002",
+    "propertyId": "P-001",
+    "title": "Thanksgiving Week Closures",
+    "bodyMarkdown": "Our office will be closed Thursday, November 28 and Friday, November 29 for Thanksgiving.\n\n**Emergency contact:** For urgent maintenance issues during the holiday, call our emergency line at (555) 123-4567.",
+    "startsAt": "2025-11-20T00:00:00Z",
+    "endsAt": "2025-11-30T23:59:59Z",
+    "isPinned": false
+  },
+  {
+    "id": "N-003",
+    "propertyId": "P-001",
+    "title": "Winter Weather Preparation",
+    "bodyMarkdown": "As winter approaches, please remember:\n- Let faucets drip during freezing temperatures\n- Keep cabinet doors open under sinks\n- Maintain heat above 55°F even when away\n- Report any drafts or heating issues promptly",
+    "startsAt": "2025-11-01T00:00:00Z",
+    "endsAt": "2026-03-01T00:00:00Z",
+    "isPinned": false
+  }
+]

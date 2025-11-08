@@ -1,0 +1,67 @@
+{
+  "threads": [
+    {
+      "id": "TH-001",
+      "propertyId": "P-001",
+      "createdByUserId": "U-1001",
+      "title": "Best local hiking trails?",
+      "bodyMarkdown": "Hey everyone! We're new to the area and looking for good hiking trails within 30 minutes of the cabins. Any favorites you'd recommend for a moderate skill level?",
+      "isPinned": false,
+      "isLocked": false,
+      "createdAt": "2025-11-02T14:00:00Z",
+      "updatedAt": "2025-11-02T16:00:00Z"
+    },
+    {
+      "id": "TH-002",
+      "propertyId": "P-001",
+      "createdByUserId": "U-1002",
+      "title": "Recommendations for local restaurants",
+      "bodyMarkdown": "Looking for dinner recommendations! We've been cooking at the cabin but want to try some local spots. What are your favorites?",
+      "isPinned": false,
+      "isLocked": false,
+      "createdAt": "2025-11-03T18:30:00Z",
+      "updatedAt": "2025-11-04T10:15:00Z"
+    },
+    {
+      "id": "TH-003",
+      "propertyId": "P-001",
+      "createdByUserId": "U-2001",
+      "title": "Welcome to Grace Springs Cabins!",
+      "bodyMarkdown": "Welcome to our community! 🏡\n\nThis board is here for neighbors to connect, share recommendations, and help each other out. Feel free to ask questions, share discoveries, or organize get-togethers.\n\nRemember to be respectful and keep discussions constructive. For maintenance issues, please use the Maintenance section to submit tickets.\n\nEnjoy your stay!",
+      "isPinned": true,
+      "isLocked": false,
+      "createdAt": "2025-10-15T09:00:00Z",
+      "updatedAt": "2025-10-15T09:00:00Z"
+    }
+  ],
+  "replies": [
+    {
+      "id": "RP-001",
+      "threadId": "TH-001",
+      "createdByUserId": "U-2001",
+      "bodyMarkdown": "Check out Cedar Bluff Loop! It's about 20 minutes away and has beautiful views. Moderate difficulty, takes about 2 hours.",
+      "createdAt": "2025-11-02T16:00:00Z"
+    },
+    {
+      "id": "RP-002",
+      "threadId": "TH-001",
+      "createdByUserId": "U-1002",
+      "bodyMarkdown": "Also recommend Whispering Pines Trail. Very scenic and well-maintained. Great for families!",
+      "createdAt": "2025-11-02T19:30:00Z"
+    },
+    {
+      "id": "RP-003",
+      "threadId": "TH-002",
+      "createdByUserId": "U-1001",
+      "bodyMarkdown": "Mountain View Diner has amazing breakfast. Their biscuits and gravy are incredible!",
+      "createdAt": "2025-11-04T10:15:00Z"
+    },
+    {
+      "id": "RP-004",
+      "threadId": "TH-002",
+      "createdByUserId": "U-2002",
+      "bodyMarkdown": "For dinner, try Creek Side Steakhouse. A bit pricey but worth it for a special occasion. Make reservations on weekends!",
+      "createdAt": "2025-11-04T12:00:00Z"
+    }
+  ]
+}
